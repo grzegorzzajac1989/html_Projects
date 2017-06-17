@@ -1,0 +1,12 @@
+@import url("bootstrap.min.css"); 																	/* Main Bootstrap */
+@import url("style.css");																					/* Main theme styles */
+@import url("responsive.css");																			/* Responsive */
+@import url("blog.css");																					/* Blog styles */
+@import url("elegant_font/elegant_font.min.css");									/* Icon pack */
+@import url("simple-line-icons-master/css/simple-line-icons.css");			/* Icon pack */
+@import url("car_icons/css/car.css");																/* Icon pack */
+@import url("jquery.switch.css");																	/*Switch yes/no */
+@import url("date_time_picker.css");															/*Date picker */
+@import url("owl.carousel.css");																		/*Carousel*/
+@import url("owl.theme.css");																		/*Carousel*/
+@import url("owl.transitions.css");																	/*Carousel*/
