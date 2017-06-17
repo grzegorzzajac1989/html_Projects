@@ -1,3 +1,3 @@
 # html_Projects
 
-* (http://www.taxikrk.pl) - taxi service
+* http://www.taxikrk.pl - taxi service
